@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "h3": "^0.3.1"
+  }
+}
